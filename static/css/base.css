@@ -85,6 +85,7 @@ a.category-badge > span.badge:hover {
 
 .btt-link {
     cursor: pointer;
+    text-decoration: none;
 }
 
 /* -------------------------------- Media Queries */
